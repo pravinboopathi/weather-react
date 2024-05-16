@@ -35,8 +35,8 @@ function Weather() {
 
                 <div className=" md:mt-5 mt-6">
                     <h1><b>Weather : </b>{weather}</h1>
-                    <h1><b>Temperature : </b>{desc} </h1>
-                    <h1><b>Description : </b> {temp}</h1>
+                    <h1><b>Temperature : </b>{temp} </h1>
+                    <h1><b>Description : </b> {desc}</h1>
                 </div>
             </div>
         </div>
